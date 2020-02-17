@@ -19,6 +19,6 @@ for i in range(p):
     y=random.randint(0,m)
     loc=array1[x,y]
     #一技致命
-    
+
 
 
